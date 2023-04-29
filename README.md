@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### 👋It's me,RowletQwQ
+- 😄 A SCS student from Beijing University of Posts and Telecommunications
+- 🔭 Former Competetive Programmer(But too weak),thus major in C/Cpp
+- 🌱 Currently learning Java and Golang,and looking forward to getting familiar with Rust
+- 🤔 AIGC is also so INTERESTING QwQ
+- 📫 How to reach me:
+  - Email: rowletqwq@foxmail.com
+Have Fun😄
+### Stats
+[![RowletQwQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RowletQwQ&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RowletQwQ/RowletQwQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
