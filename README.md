@@ -7,7 +7,7 @@
   - Email: rowletqwq@foxmail.com
 Have Fun😄
 ### Stats
-[![RowletQwQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RowletQwQ&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RowletQwQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RowletQwQ&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RowletQwQ/RowletQwQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
